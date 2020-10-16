@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section2.9._ObjectInitializ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section2.10._Methods", "Section2.10._Methods\Section2.10._Methods.csproj", "{06C990EC-78A4-437A-A313-26BBFCE05421}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Setion2.11._Fields", "Setion2.11._Fields\Setion2.11._Fields.csproj", "{A86F2E5C-C07C-402C-AA2C-38093B3DCD84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,5 +45,9 @@ Global
 		{06C990EC-78A4-437A-A313-26BBFCE05421}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06C990EC-78A4-437A-A313-26BBFCE05421}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06C990EC-78A4-437A-A313-26BBFCE05421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A86F2E5C-C07C-402C-AA2C-38093B3DCD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86F2E5C-C07C-402C-AA2C-38093B3DCD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86F2E5C-C07C-402C-AA2C-38093B3DCD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86F2E5C-C07C-402C-AA2C-38093B3DCD84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
