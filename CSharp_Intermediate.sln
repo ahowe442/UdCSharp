@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Setion2.11._Fields", "Setio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section2.12._AccessModifiers", "Section2.12._AccessModifiers\Section2.12._AccessModifiers.csproj", "{30D7CE19-EF81-4EA7-BA95-846319BA7BAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section2.13._Properties", "Section2.13._Properties\Section2.13._Properties.csproj", "{6E61B373-9A2F-4147-85AF-A3005E83D8CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,5 +57,9 @@ Global
 		{30D7CE19-EF81-4EA7-BA95-846319BA7BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30D7CE19-EF81-4EA7-BA95-846319BA7BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30D7CE19-EF81-4EA7-BA95-846319BA7BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E61B373-9A2F-4147-85AF-A3005E83D8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E61B373-9A2F-4147-85AF-A3005E83D8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E61B373-9A2F-4147-85AF-A3005E83D8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E61B373-9A2F-4147-85AF-A3005E83D8CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
