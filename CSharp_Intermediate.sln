@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section1.4.29._Non-Primativ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section1.4.31._Non-PrimativeTypes_Arrays", "Section1.4.Non-PrimativeTypes_Arrays\Section1.4.31._Non-PrimativeTypes_Arrays.csproj", "{544AC457-8B37-474B-8534-878E70782DAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section1.4.32._Non-PrimativeTypes_Strings", "Section1.4.32._Non-PrimativeTypes_Strings\Section1.4.32._Non-PrimativeTypes_Strings.csproj", "{618D91D0-E039-4083-8A19-C65EAD67CF62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,5 +81,9 @@ Global
 		{544AC457-8B37-474B-8534-878E70782DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{544AC457-8B37-474B-8534-878E70782DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{544AC457-8B37-474B-8534-878E70782DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{618D91D0-E039-4083-8A19-C65EAD67CF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618D91D0-E039-4083-8A19-C65EAD67CF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618D91D0-E039-4083-8A19-C65EAD67CF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618D91D0-E039-4083-8A19-C65EAD67CF62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
