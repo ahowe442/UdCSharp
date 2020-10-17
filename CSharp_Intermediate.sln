@@ -29,6 +29,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section1.4.32._Non-Primativ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section1.4.35._Non-PrimativeTypes_Enums", "Section1.4.35._Non-PrimativeTypes_Enums\Section1.4.35._Non-PrimativeTypes_Enums.csproj", "{9F7DF185-9739-45B1-A3CE-1C017F874DFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section1.4.37.1._ReferenceTypesAndValuesTypesPart1", "Section1.4.37.1._ReferenceTypesAndValuesTypesPart1\Section1.4.37.1._ReferenceTypesAndValuesTypesPart1.csproj", "{495545D3-080A-4EA2-A45F-57681DAFEBB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section1.4.38.2._Non-PrimativeTypes_ReferenceTypesAndValueTypes_Part2", "Section1.4.38._Non-PrimativeTypes_ReferenceTypesAndValueTypes_Part2\Section1.4.38.2._Non-PrimativeTypes_ReferenceTypesAndValueTypes_Part2.csproj", "{18FD8274-96E3-4E8E-AFED-7BF04652E125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section1.5.49._ControlFlow_Exercises", "Section1.5.49._ControlFlow_Exercises\Section1.5.49._ControlFlow_Exercises.csproj", "{0AD73234-7890-4FAD-96E7-972E19CC92AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,5 +97,17 @@ Global
 		{9F7DF185-9739-45B1-A3CE-1C017F874DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F7DF185-9739-45B1-A3CE-1C017F874DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F7DF185-9739-45B1-A3CE-1C017F874DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495545D3-080A-4EA2-A45F-57681DAFEBB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495545D3-080A-4EA2-A45F-57681DAFEBB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495545D3-080A-4EA2-A45F-57681DAFEBB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495545D3-080A-4EA2-A45F-57681DAFEBB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18FD8274-96E3-4E8E-AFED-7BF04652E125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FD8274-96E3-4E8E-AFED-7BF04652E125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FD8274-96E3-4E8E-AFED-7BF04652E125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FD8274-96E3-4E8E-AFED-7BF04652E125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD73234-7890-4FAD-96E7-972E19CC92AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD73234-7890-4FAD-96E7-972E19CC92AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD73234-7890-4FAD-96E7-972E19CC92AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD73234-7890-4FAD-96E7-972E19CC92AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
