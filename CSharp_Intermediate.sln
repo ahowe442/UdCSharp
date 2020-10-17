@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section2.12._AccessModifier
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section2.13._Properties", "Section2.13._Properties\Section2.13._Properties.csproj", "{6E61B373-9A2F-4147-85AF-A3005E83D8CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section1.4.27._Non-PrimativeTypes_Classes", "Section1.4.27._Non-PrimativeTypes_Classes\Section1.4.27._Non-PrimativeTypes_Classes.csproj", "{28D77581-FAF3-4E9C-BAB0-55C89136519E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,5 +63,9 @@ Global
 		{6E61B373-9A2F-4147-85AF-A3005E83D8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E61B373-9A2F-4147-85AF-A3005E83D8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E61B373-9A2F-4147-85AF-A3005E83D8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D77581-FAF3-4E9C-BAB0-55C89136519E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D77581-FAF3-4E9C-BAB0-55C89136519E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D77581-FAF3-4E9C-BAB0-55C89136519E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D77581-FAF3-4E9C-BAB0-55C89136519E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

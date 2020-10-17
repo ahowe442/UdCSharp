@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Section1._4._27._Non_PrimativeTypes_Classes</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Math\" />
+  </ItemGroup>
+</Project>
